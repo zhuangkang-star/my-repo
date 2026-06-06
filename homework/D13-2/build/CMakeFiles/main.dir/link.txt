@@ -1,0 +1,1 @@
+/usr/bin/cc  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/main.dir/src/main.c.o CMakeFiles/main.dir/src/print.c.o CMakeFiles/main.dir/src/print1.c.o -o /Users/zhurunkang/Desktop/X-Lab/嵌入式/zhuangrepo1/homework/D13-2/bin/main

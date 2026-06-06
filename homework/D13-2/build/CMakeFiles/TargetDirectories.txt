@@ -1,0 +1,3 @@
+/Users/zhurunkang/Desktop/X-Lab/嵌入式/zhuangrepo1/homework/D13-2/build/CMakeFiles/main.dir
+/Users/zhurunkang/Desktop/X-Lab/嵌入式/zhuangrepo1/homework/D13-2/build/CMakeFiles/edit_cache.dir
+/Users/zhurunkang/Desktop/X-Lab/嵌入式/zhuangrepo1/homework/D13-2/build/CMakeFiles/rebuild_cache.dir
